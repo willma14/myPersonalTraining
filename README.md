@@ -1,2 +1,4 @@
 # myPersonalTraining
-training in LIT personal
+personal training + portfolio
+
+All projects coming soon!
